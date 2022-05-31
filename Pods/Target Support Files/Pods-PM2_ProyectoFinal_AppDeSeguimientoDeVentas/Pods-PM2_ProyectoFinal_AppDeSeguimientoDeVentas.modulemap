@@ -1,0 +1,6 @@
+framework module Pods_PM2_ProyectoFinal_AppDeSeguimientoDeVentas {
+  umbrella header "Pods-PM2_ProyectoFinal_AppDeSeguimientoDeVentas-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1000437198863-8af9etgfr4dafvm6h2u40r5m7u9sukca.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1000437198863-8af9etgfr4dafvm6h2u40r5m7u9sukca</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnmuki8G0aFsreau2FDqWOUEUm9v47Ww4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1000437198863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Alexander.PM2-ProyectoFinal-AppDeSeguimientoDeVentas</string>
+	<key>PROJECT_ID</key>
+	<string>pm2-proyectofinal-seguimiento</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pm2-proyectofinal-seguimiento.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1000437198863:ios:2bf08ebe05c57f72e2337a</string>
+</dict>
+</plist>
